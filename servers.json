@@ -51,11 +51,12 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
+    },
+    {
+      "name": "darkstalk's server"  
+      "address": "https://github.com/darkstalker21/darkstalker21.github.io"
     }
+
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
-},
-{
-    "name": "darkstalk's server",   
-    "address": "https://github.com/darkstalker21/darkstalker21.github.io"
 }
